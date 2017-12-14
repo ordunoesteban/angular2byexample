@@ -20,4 +20,5 @@ To setup code for Personal Trainer see the README.md in **trainer** folder.
 ## Note
 
 
-.
+ #changes
+ Created angular2byexample-base to keep it as copy of the original code. No other changes.
