@@ -3,10 +3,7 @@ import {WorkoutPlan, ExercisePlan, Exercise} from './model'
 
 @Component({
   selector: 'workout-runner',
-  template: `
-    <pre>Current Exercise: {{currentExercise | json}}</pre>
-    <pre>Time Left: {{currentExercise.duration-exerciseRunningDuration}}</pre>
-  `
+  templateUrl:'/src/components/workout-runner/workout-runner.html'
 })
 export class WorkoutRunnerComponent implements OnInit {
   workoutPlan: WorkoutPlan;
