@@ -18,6 +18,5 @@ To setup code for Guess The Number see the README.md in **guessthenumber** folde
 To setup code for Personal Trainer see the README.md in **trainer** folder.
 
 ## Note
-
-
-.
+Angular2byexample-checkpoint2.1
+Angular2byexample-checkpoint2.2
