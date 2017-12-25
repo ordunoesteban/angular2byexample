@@ -1,9 +1,6 @@
 
 
-
-
           # iexplore later 
-   
     try
     {
        Stop-Process -processname iexplore  -ea stop
@@ -15,8 +12,6 @@
     }
 
     
-   
-
 
      try
     {
